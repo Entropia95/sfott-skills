@@ -14,8 +14,8 @@ Non prendiamoci in giro. Chiedi al tuo agente. Io non so come si fa.
 
 ## Skill disponibili
 
-| Skill | Descrizione | Categoria |
-|---|---|---|
+| Skill | Descrizione |
+|---|---|
 | [Altimanizer](skills/altimanizer/) | Uno stile comunicativo ispirato a un famoso marketer italiano |
 
 Altre skill in arrivo. Alcune non sarebbero dovute esistere.
