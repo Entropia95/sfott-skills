@@ -17,6 +17,7 @@ Non prendiamoci in giro. Chiedi al tuo agente. Io non so come si fa.
 | Skill | Descrizione |
 |---|---|
 | [Altimanizer](skills/altimanizer/) | Uno stile comunicativo ispirato a un famoso marketer italiano |
+| [Miao, proprio così](skills/miao-proprio-cosi/) | Scrivi "miao" e ogni sì diventa "Miao, proprio così" |
 
 Altre skill in arrivo. Alcune non sarebbero dovute esistere.
 
