@@ -1,8 +1,8 @@
 # Contribuire a Sfott Skills 🤌
 
-Prima di tutto, benvenut*!
+Prima di tutto, welcome!
 
-Sfott Skills nasce da un'idea semplice: gli output degli agenti sono tutti uguali. E sono brutti brutti in cu***o.
+Sfott Skills nasce da un'idea semplice: gli output degli agenti sono tutti uguali. E sono brutti in cu***o.
 
 Se hai un'idea per una nuova skill, siamo curiosi di conoscerla.
 
